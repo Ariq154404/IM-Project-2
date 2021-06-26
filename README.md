@@ -7,7 +7,7 @@ https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification
 A pretrained of Delibert from huggingface is being used as the base later which is fine tuned on a feed forword neural network and only less the 10% of the training data is used due to resource complexity
 
 #Deployment:
-Sample model is deployden in google cloud platform app engine using flask to generate output
+Sample model is deployed in google cloud platform app engine, using flask to generate output.
 link:
 https://jigsawtoxiccomment.as.r.appspot.com/
 # Dependencies:
